@@ -1,6 +1,6 @@
-# Diktat — Live Transcription
+# Diktat - A locally running transcription app
 
-A standalone desktop dictation app built with Tkinter. Records from a microphone using voice activity detection (VAD), transcribes speech with OpenAI Whisper, and can also import and transcribe audio files.
+A standalone desktop dictation app built with Tkinter. Records from a microphone using voice activity detection (VAD), transcribes speech with OpenAI Whisper on your own computer, and can also import and transcribe audio files.
 
 No system ffmpeg installation needed — a bundled binary is provided via `imageio-ffmpeg`.
 
