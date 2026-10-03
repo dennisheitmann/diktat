@@ -1,0 +1,6 @@
+openai-whisper
+sounddevice
+webrtcvad-wheels
+numpy
+soundfile
+imageio-ffmpeg
