@@ -13,9 +13,11 @@ No system ffmpeg installation needed — a bundled binary is provided via `image
 - Language selection or auto-detect
 - Choice of Whisper model size (tiny → large)
 
+<img width="716" height="435" alt="diktat" src="https://github.com/user-attachments/assets/8d0b5ece-eb92-4b26-a2f6-15bd63a43622" />
+
 ## Requirements
 
-Python 3.10+ is recommended.
+Python 3.11+ is recommended.
 
 Install dependencies:
 
